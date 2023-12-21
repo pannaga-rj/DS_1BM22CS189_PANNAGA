@@ -52,9 +52,4 @@ void main()
     {
         printf("%d\n",ptr1[i]);
     }
-
-
-
-
-
 }
