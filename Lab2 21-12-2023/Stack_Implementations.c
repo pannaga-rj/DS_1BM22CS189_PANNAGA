@@ -10,8 +10,6 @@ void display(int a[]);
 int top = -1;
 int a[size],i;
 
-
-
 void main(){
 int choice;
 
