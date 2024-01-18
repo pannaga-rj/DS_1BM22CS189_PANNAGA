@@ -75,7 +75,7 @@ int main() {
 
     printf("Min: %d\n", minStackGetMin(obj));
 
-    //minStackPop(obj);
+    
     printf("Top: %d\n", minStackTop(obj));
 
     minStackPop(obj);
