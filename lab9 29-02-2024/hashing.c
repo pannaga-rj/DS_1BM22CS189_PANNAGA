@@ -64,7 +64,6 @@ void main()
         scanf("%d",&key);
         hashing(key);
     }
-    print();
 
     printf("Enter the key to be searched: ");
     scanf("%d", &s);
